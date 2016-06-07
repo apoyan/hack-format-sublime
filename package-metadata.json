@@ -1,0 +1,8 @@
+{
+	"platforms": ["*"], 
+	"description": "Hack's code formatting plugin for Sublime Text", 
+	"sublime_text": "*", 
+	"url": "https://github.com/apoyan/hack-format-sublime", 
+	"dependencies": [], 
+	"version": "1.0.0"
+}
