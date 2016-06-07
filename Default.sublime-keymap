@@ -1,6 +1,6 @@
 [
 	{
 		"keys": ["ctrl+e"],
-    "command": "hack_format"
-  }
+		"command": "hack_format"
+	}
 ]
